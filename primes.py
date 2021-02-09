@@ -6,7 +6,7 @@ def is_prime(n):
             return false # error
         cur++
     return true # error
-
+#error11
 
 if __name__ == "__main__":
     n = int(input())
