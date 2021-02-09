@@ -15,3 +15,4 @@ if __name__ == "__main__":
     else:
         # correct the error here
         print(It is not prime)
+print("updated")
