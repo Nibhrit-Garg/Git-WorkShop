@@ -1,0 +1,14 @@
+Hey, I am Auleen Ghosh :)
+I am a first-year undergrad in Mechanical Engineering.
+
+I have a bit of prior knowledge of programming.
+I learned a bit of C++ in my school.
+After the JEE I started learning Python and also made a few small projects with the same.
+Recently I also started to learn web development.
+
+I look forward to learning about CyberSecurity and NetworkPenetration in the near future, because, frankly speaking,I am quite intrigued by these terms.
+
+I also want to get started with OpenSourcing and Development as I have heard from my friends of senior batches from school that these fields are interesting to explore.
+
+I hope that I get to learn a lot in ACM-CSS :”)
+
