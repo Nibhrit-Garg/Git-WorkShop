@@ -1,4 +1,4 @@
-# function to check if given number is prime or not
+# function to check if given number is prime 
 def is_prime(n):
     cur = 2
     while cur ** 2 <= n:
